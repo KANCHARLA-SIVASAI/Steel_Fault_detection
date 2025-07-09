@@ -1,4 +1,6 @@
 streamlit
+pickle
 numpy
 pandas
 xgboost
+sklearn
