@@ -87,5 +87,5 @@ if submitted:
 
     # Optional: Show probabilities
     fault_labels = le.classes_
-    st.markdown("### 🔍 Prediction Probabilities")
-    st.write(dict(zip(fault_labels, np.round(output[0], 4))))
+    # st.markdown("### 🔍 Prediction Probabilities")
+    # st.write(dict(zip(fault_labels, np.round(output[0], 4))))
